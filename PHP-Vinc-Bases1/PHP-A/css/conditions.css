@@ -1,0 +1,278 @@
+#cadre{
+  width:97%;
+  height: auto;
+  padding: 20px;
+  top:0;
+  bottom:0;
+  background-color: BurlyWood;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: flex-start;
+}
+
+h1{
+  color:#424242;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 20px;
+}
+
+h2{
+  color:darkblue;
+  font-family: sans-serif;
+  text-align:center;
+  font-size: 18px;
+}
+
+h3{
+  color:#424242;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+h4{
+  color:green;
+  font-family: sans-serif;
+  font-size: 10px;
+  font-weight:400;
+}
+
+p{
+  color: Red ;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  text-align:left;
+}
+
+.element1{
+  width: 320px;
+  /*height:1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid crimson;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element1:hover{
+  /*width:550px;*/
+  background-color: Cornsilk ;
+  transition-duration: 1s;
+}
+
+.element2{
+  width: 320px;
+  /*height:1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid navy;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element2:hover{
+  /*width:550px;*/
+  background-color: Cornsilk ;
+  transition-duration: 1s;
+}
+
+.element3{
+  width: 320px;
+  /*height:1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid steelblue;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element3:hover{
+  /*width:550px;*/
+  background-color: Cornsilk;
+  transition-duration: 1s;
+}
+
+.element4{
+  width: 320px;
+  /*height: 1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid gold;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+  /*overflow: scroll;*/
+}
+
+.element4:hover{
+  /*width:550px;*/
+  background-color: Cornsilk;
+  transition-duration: 1s;
+}
+
+.element5{
+  width: 320px;
+  /*height: 1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid navy;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element5:hover{
+  /*width:550px;*/
+  background-color: Cornsilk;
+  transition-duration: 1s;
+}
+
+.element6{
+  width: 320px;
+  /*height: 1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid navy;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element6:hover{
+  /*width:550px;*/
+  background-color: Cornsilk;
+  transition-duration: 1s;
+}
+
+Table{
+  height: auto;
+}
+
+Table, th{
+  border:2px solid grey;
+  text-align: left;
+}
+
+Table, td{
+  border:1px solid blue;
+}
+
+th, td{
+  background: #CD953F;
+  font-size:16px;
+  margin:2px;
+}
+
+.element7{
+  /*width:auto;*/
+  width: 320px;
+  /*height:1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid navy;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element7:hover{
+  /*width:550px;*/
+  background-color: Cornsilk;
+  transition-duration: 1s;
+}
+
+.element8{
+  /*width:auto;*/
+  width: 320px;
+  /*height:1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid navy;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element8:hover{
+  /*width:550px;*/
+  background-color: Cornsilk;
+  transition-duration: 1s;
+}
+
+.element9{
+  /*width:auto;*/
+  width: 320px;
+  /*height: 1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid navy;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element9:hover{
+  /*width:550px;*/
+  background-color: Cornsilk;
+  transition-duration: 1s;
+}
+
+.element10{
+  /*width:auto;*/
+  width: 320px;
+  /*height: 1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid navy;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element10:hover{
+  /*width:550px;*/
+  background-color: Cornsilk;
+  transition-duration: 1s;
+}
+
+.element11{
+  /*width:auto;*/
+  width: 320px;
+  /*height: 1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid navy;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element11:hover{
+  /*width:550px;*/
+  background-color: Cornsilk;
+  transition-duration: 1s;
+}
+
+.element12{
+  /*width:auto;*/
+  width: 320px;
+  /*height: 1700px;*/
+  padding:10px;
+  margin:10px;
+  border: 5px solid navy;
+  border-style: ridge;
+  background-color: Peru;
+  text-align:left;
+}
+
+.element12:hover{
+  /*width:550px;*/
+  background-color: Cornsilk;
+  transition-duration: 1s;
+}

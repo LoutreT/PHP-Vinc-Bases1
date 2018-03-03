@@ -1,0 +1,265 @@
+body{
+  width:100%;
+  background : Darkmagenta;
+}
+
+#paysage{
+  display:flex;
+  flex-wrap: wrap;
+  margin: 15px;
+}
+
+.boucles{
+  /*top:0;*/
+  /*left:0;*/
+  width: 320px;
+  height:1150px;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  background: Indigo;
+  border-style:5px ;
+  border-color: yellow;
+}
+
+.boucles:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+h1{
+  color: gold;
+  font-stretch: extra-condensed;
+  font-family: sans-serif;
+  font-size: 46px;
+  /*text-transform: uppercase;*/
+}
+
+h1:hover{
+  /*text-transform: full-width;*/
+  -webkit-transform: rotateX(720deg); /* Safari */
+  transform: rotateX(720deg);
+  transition-duration: 2s;
+  transition-timing-function: ease-in-out;
+}
+
+h2{
+  color: purple;
+  font-family: sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+}
+
+h3{
+  color: Orangered;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight:normal;
+}
+
+h4{
+  color:blue;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight:normal;
+}
+
+h5{
+  color:orange;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight:normal;
+}
+
+h6{
+  color:black;
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight:400;
+}
+
+p{
+  color:black;
+  font-family: sans-serif;
+  font-size: 11px;
+  font-weight:normal;
+}
+
+.tableauETboucleForeach{
+  width: 320px;
+  height: 1150px;
+  padding:5px;
+  margin: 5px;
+  background-color: Indigo;
+}
+
+.tableauETboucleForeach:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.uppercase{
+  width:320px;
+  height: 1150px;
+  padding:5px;
+  margin: 5px;
+  background-color: Indigo;
+}
+
+.uppercase:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.foreachformule{
+  border-width: thick;
+  border-color: red;
+  border-style:double;
+  background-color: Indigo;
+}
+
+.foreachformule:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.whileformule{
+  border-width: thick;
+  border-color: red;
+  border-style:double;
+  background-color: Indigo;
+}
+
+.whileformule:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.forformule{
+  border-width: thick;
+  border-color: red;
+  border-style:double;
+  background-color: Indigo;
+}
+
+.forformule:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.uppercas{
+  border-width: thick;
+  border-color: red;
+  border-style:double;
+  background-color: Indigo;
+}
+
+.uppercas:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.while{
+  width:320px;
+  height:1150px;
+  padding:5px;
+  margin: 5px;
+  background-color: Indigo;
+}
+
+.while:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.for{
+  width:320px;
+  /*height: 1150px;*/
+  padding:5px;
+  margin: 5px;
+  background-color: Indigo;
+}
+
+.for:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.exercicewhile{
+  width:320px;
+  padding:5px;
+  margin: 5px;
+  background-color: Indigo;
+}
+
+.exercicewhile:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.exercicefor{
+  width:320px;
+  padding:5px;
+  margin: 5px;
+  background-color: Indigo;
+}
+
+.exercicefor:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.prenom{
+  width:320px;
+  padding:5px;
+  margin: 5px;
+  background-color: Indigo;
+}
+
+.prenom:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+/*tr{
+  color:black;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight:normal;
+}*/
+
+.exercicepays{
+  width:320px;
+  padding:5px;
+  margin: 5px;
+  background-color: Indigo;
+}
+
+.exercicepays:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.exercicepays select {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  /*background-color: #3b8ec2;*/
+  color: #fff;
+  background: blue no-repeat 96% 0;
+  height: 29px;
+  overflow: hidden;
+  width: 240px;
+ }
+
+.ISO{
+  width:320px;
+  padding:5px;
+  margin: 5px;
+  background-color: Indigo;
+}
+
+.ISO:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}

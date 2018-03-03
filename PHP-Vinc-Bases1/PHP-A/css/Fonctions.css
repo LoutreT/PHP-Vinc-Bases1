@@ -1,0 +1,142 @@
+#Fonctions{
+  background-color: DarkMagenta;
+  padding:5px;
+  top:20px;
+  display:flex;
+  flex-wrap:wrap;
+  border: 5px solid crimson;
+  border-style: ridge;
+}
+
+h1{
+  color:black;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2{
+  color:black;
+  font-family: sans-serif;
+}
+
+h3{
+  color: green;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+h4{
+  color:black;
+  font-family: sans-serif;
+}
+
+h5{
+  color:black;
+}
+
+h6{
+  color:green;
+}
+
+.Fonction1{
+  width:100%;
+  top:20px;
+  margin:10px;
+  padding:10px;
+  background-color: Indigo ;
+  text-align: center;
+  border: 5px solid crimson;
+  border-style: ridge;
+}
+
+.Fonction2{
+  width:760px;
+  top:20px;
+  margin:10px;
+  padding:10px;
+  background-color: Indigo ;
+  border: 5px solid crimson;
+  border-style: ridge;
+}
+
+.Fonction2:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+
+.Fonction3{
+  width:760px;
+  top:20px;
+  margin:10px;
+  padding:10px;
+  background-color: Indigo ;
+  border: 5px solid crimson;
+  border-style: ridge;
+}
+
+.Fonction3:hover{
+  background-color: peachpuff;
+  transition-duration: 1s;
+}
+
+.Fonction4{
+  width:760px;
+  top:20px;
+  margin:10px;
+  padding:10px;
+  background-color: Indigo ;
+  border: 5px solid crimson;
+  border-style: ridge;
+}
+
+.Fonction4:hover{
+  background-color: Peachpuff;
+  transition-duration: 1s;
+}
+
+.Fonction5{
+  width:760px;
+  top:20px;
+  margin:10px;
+  padding:10px;
+  background-color: Indigo ;
+  border: 5px solid crimson;
+  border-style: ridge;
+}
+
+.Fonction5:hover{
+  background-color: Peachpuff;
+  transition-duration: 1s;
+}
+
+.Fonction6{
+  width:760px;
+  top:20px;
+  margin:10px;
+  padding:10px;
+  background-color: Indigo ;
+  border: 5px solid crimson;
+  border-style: ridge;
+}
+
+.Fonction6:hover{
+  background-color: Peachpuff;
+  transition-duration: 1s;
+}
+
+.Fonction7{
+  width:760px;
+  top:20px;
+  margin:10px;
+  padding:10px;
+  background-color: Indigo ;
+  border: 5px solid crimson;
+  border-style: ridge;
+}
+
+.Fonction7:hover{
+  background-color: Peachpuff;
+  transition-duration: 1s;
+}

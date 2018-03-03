@@ -1,0 +1,255 @@
+
+
+body{
+  background : tan;
+  min-width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+#fenetre{
+  width: 320px;
+  /*max-width: 650px;*/
+  margin-left: 20px;
+  margin-top:20px;
+  margin-bottom:20px;
+  padding:10px;
+  border-radius: 20px;
+  background: seagreen;
+}
+
+h1{
+  color:firebrick;
+  font-family: sans-serif; /* Sans bouts courbus sur chaque lettre.*/
+  font-size: 34px;
+  font-weight:600;
+  text-align: center;
+  /*text-transform: uppercase;/*transforme en majuscule toutes les lettres*/
+}
+
+h3{
+  font-family: sans-serif;
+  font-size: 14px;
+  color:black; /*couleur des lettres*/
+  text-align: center;
+}
+
+h4{
+  color:darkblue;
+  font-size:14px;
+  font-style:bold;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p{
+  color:darkblue;
+}
+
+a{
+  color:darkblue;
+  font-family:sans-serif;
+  font-style: normal;
+}
+
+.phparray{
+  color:darkblue;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 24px;
+  background: lightgreen;
+  border-radius: 15px;
+  border-color: red;
+  border-style:double;
+  margin: 20px;
+  padding:10px;
+  text-align: center;    /*Pour que mon texte développe les phrases
+                                    au milieu entre chaque lignes*/
+}
+
+.boutons{
+  background: lightgreen;
+  border-radius: 15px;
+  border-color: red;
+  border-width: medium;
+  border-style:groove;
+  margin: 20px;
+  padding:10px;
+  text-align: center;
+}
+
+.TableauExoFamille{
+  margin: 20px;
+  padding:10px;
+  font-size: 18px;
+  font-style: normal;
+  font-family: serif;
+  background: lightgreen;
+  border-radius: 15px;
+  border-color: red;
+  border-width:thin;
+  border-style:groove;
+  /*margin: auto; /*Pour amener tout mon texte au milieu de l'écran*/
+  text-align: center; /*Pour que mon texte développe les phrases
+                                    au milieu entre chaque lignes*/
+}
+
+.TableauPlatsPref{
+  font-size: 18px;
+  font-style: normal;
+  font-family: serif;
+  background: lightgreen;
+  margin: 20px;
+  padding:10px;
+  border-radius: 15px;
+  border-color: grey;
+  border-width:thick;/*épaisseur des pointillés jaunes*/
+  border-style:dotted; /*pointillés ronds*/
+  /*margin: auto; /*Pour amener tout mon texte au milieu de l'écran*/
+  text-align: center;
+}
+
+.FilmPref{
+  font-size: 20px;
+  font-style: normal;
+  font-family: sans-serif;
+  background: lightgreen;
+  margin: 20px;
+  padding:10px;
+  border-radius: 15px;
+  border-color: red;
+  border-width:3px; /*épaisseur des pointillés rouges*/
+  border-style:dashed; /*pointillé*/
+  text-align: center;
+}
+
+.Theorie2{
+  width:320px;
+  margin-left: 20px;
+  margin-top:20px;
+  margin-bottom:20px;
+  padding:10px;
+  min-width: 300px;
+  border-radius: 20px;
+  background: lightgreen;
+}
+
+.AjoutNewKeyDansTableau{
+  color:darkblue;
+  font-family: ubuntu;
+  font-weight: normal;
+  font-size: 24px;
+  background: seagreen;
+  border-radius: 15px;
+  border-color: red;
+  border-style:ridge;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;/*Pour que mon texte développe les phrases
+                                  au milieu entre chaque lignes*/
+}
+
+.Theorie3{
+  width:320px;
+  margin-left:20px;
+  margin-top:20px;
+  margin-bottom:20px;
+  padding:10px;
+  min-width: 300px;
+  border-radius: 20px;
+  background: seagreen;
+}
+
+.ChangeNewVarDansTableau{
+  color:darkblue;
+  font-family: arial;
+  font-weight: normal;
+  font-size: 18px;
+  background: lightgreen;
+  border-radius: 15px;
+  border-color: red;
+  border-style:outset;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+
+.TestFrameArray4{
+  width:320px;
+  background-color : lightgreen;
+  margin-left: 20px;
+  margin-top:20px;
+  margin-bottom:20px;
+  padding:20px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+Table{
+  height: auto;
+}
+
+Table, th{
+  border:2px solid;
+  text-align: center;
+}
+
+Table, td{
+  border:1px solid;
+}
+
+th, td{
+  background:firebrick;
+  font-size:14px;
+  color: darkblue;
+}
+
+.Theorie5{
+  width: 320px;
+  margin-left: 20px;
+  margin-top:20px;
+  margin-bottom:20px;
+  padding:10px;
+  border-radius: 20px;
+  background: seagreen;
+}
+
+.ExerciceSynthetique{
+  color:darkblue;
+  font-family: arial;
+  font-weight: normal;
+  font-size: 18px;
+  background: lightgreen;
+  border-radius: 15px;
+  border-color: Cyan;
+  border-style:outset;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+.Theorie6{
+  width: 320px;
+  margin-left: 20px;
+  margin-top:20px;
+  margin-bottom:20px;
+  padding:10px;
+  border-radius: 20px;
+  background: seagreen;
+}
+
+.IntersectionFusion{
+  color:darkblue;
+  font-family: arial;
+  font-weight: normal;
+  font-size: 18px;
+  background: lightgreen;
+  border-radius: 15px;
+  border-color: pink;
+  border-style:outset;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}

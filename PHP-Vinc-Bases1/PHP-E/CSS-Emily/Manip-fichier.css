@@ -1,0 +1,138 @@
+
+
+#Base{
+  width:100%;
+  min-width: 320px;
+  height:100%;
+  padding:10px;
+  margin: 2px;
+  background-color:yellow;
+}
+
+#refresh{
+  width:300px;
+  background-color: darkorange;
+  border-style: outset;
+  margin: 10px;
+}
+
+h1{
+  color:black;
+  font-style: ubuntu;
+  /*font-weight:px;*/
+}
+
+h2{
+  font-family: sans-serif;
+}
+
+h3{
+  color:DarkSlateGray ;
+  /*font-size: px;*/
+  font-family: sans-serif;
+  font-weight: 400;
+}
+
+h4{
+  color:blue;
+  font: arial;
+  /*font-size: 13px;*/
+  font-family: sans-serif;
+}
+
+h5{
+  color:DarkSlateGray;
+  font: arial;
+  font-size:16px;
+  font-weight: 400;
+  font-family: sans-serif;
+}
+
+h6{
+  color:green;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+p{
+  color:red;
+  font-size: 13px;
+}
+
+.row-one{
+  width:100%;
+  max-height:200px;
+  background-color: black;
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: flex-start;
+  font-weight: bold;
+  font-variant-ligatures: normal;
+  border-style: groove;
+}
+
+.li-Menu{
+  width:150px;
+  color:darkorange;
+  background-color: Black;
+  border-style:groove;
+  text-transform: uppercase;
+  padding-left:40px;
+  padding-right: 20px;
+  margin: 5px;
+  text-align: left;
+}
+
+.li-Exo{
+  width:300px;
+  color:darkorange;
+  background-color: Black;
+  border-style:groove;
+  text-transform: uppercase;
+  padding-left:40px;
+  padding-right: 20px;
+  margin: 5px;
+  text-align: left;
+}
+
+.li-Cours{
+  width:300px;
+  color:darkorange;
+  background-color:Black ;
+  border-style:groove;
+  text-transform: uppercase;
+  padding-left:40px;
+  padding-right: 20px;
+  margin: 5px;
+  text-align: left;
+}
+
+.Bouton{
+  width:150px;
+  color:darkorange;
+  background-color: Black;
+  border-style:groove;
+  text-transform: uppercase;
+  padding-left:40px;
+  padding-right: 20px;
+  margin: 5px;
+  text-align: left;
+}
+
+.row-2{
+  background-color: lightgrey;
+  padding:30px;
+}
+
+.row-3{
+  background-color: yellow;
+}
+
+.changements{
+  width:90;
+  height:300;
+  padding:10px;
+  background-color: #2AF8A0;
+}
+
+.combinaison{}
